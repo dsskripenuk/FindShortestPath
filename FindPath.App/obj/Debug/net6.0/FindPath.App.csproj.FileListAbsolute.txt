@@ -1,0 +1,14 @@
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\bin\Debug\net6.0\FindPath.App.exe
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\bin\Debug\net6.0\FindPath.App.deps.json
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\bin\Debug\net6.0\FindPath.App.runtimeconfig.json
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\bin\Debug\net6.0\FindPath.App.dll
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\bin\Debug\net6.0\FindPath.App.pdb
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.AssemblyInfoInputs.cache
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.AssemblyInfo.cs
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.csproj.CoreCompileInputs.cache
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.dll
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\refint\FindPath.App.dll
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.pdb
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\FindPath.App.genruntimeconfig.cache
+D:\Work\TestTask_Infopulse\hjxc\FindPath\FindPath.App\obj\Debug\net6.0\ref\FindPath.App.dll
